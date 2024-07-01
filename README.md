@@ -8,7 +8,7 @@ Literalura es una aplicación que permite a los usuarios buscar libros utilizand
 
 - Java SE 17: Plataforma de desarrollo principal.
 - Spring Boot: Framework para la creación de aplicaciones web.
-- MySQL: Base de datos relacional para almacenar datos.
+- postgresql: Base de datos relacional para almacenar datos.
 - Insomnia: Herramienta para probar y debuggear APIs.
 
 ## API Rest Utilizada
@@ -28,6 +28,9 @@ Los usuarios pueden buscar libros por título
 - **Top 5:** Lista los libros mas populares d acuerdo al numero de descargas
 - **Busqueda por idioma:** Permite al usuario buscar libros por el idioma.
 - **Busqueda por nombre de author:** Permite al usuario ingresar su autor favorito y buscar los libros relacionados
+
+##Demo
+![Introduction to My Project](https://youtu.be/JcQT8yKUFhA)
 
 
 ## Autor
