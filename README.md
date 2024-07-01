@@ -31,7 +31,7 @@ Los usuarios pueden buscar libros por título
 
 ## Demo
 ![Literalura](https://github.com/cristianmtz/literalura/assets/55006017/cbed826e-b9e4-4bed-9adb-239d3a20dba7)
-[Full video](https://www.youtube.com/watch?v=JcQT8yKUFhA)
+- **[Full video](https://www.youtube.com/watch?v=JcQT8yKUFhA)**
 
 
 ## Autor
