@@ -29,8 +29,9 @@ Los usuarios pueden buscar libros por título
 - **Busqueda por idioma:** Permite al usuario buscar libros por el idioma.
 - **Busqueda por nombre de author:** Permite al usuario ingresar su autor favorito y buscar los libros relacionados
 
-##Demo
-![Introduction to My Project](https://youtu.be/JcQT8yKUFhA?si=7ITGCmNYKLL8kiDe)
+## Demo
+![Literalura](https://github.com/cristianmtz/literalura/assets/55006017/cbed826e-b9e4-4bed-9adb-239d3a20dba7)
+
 
 
 ## Autor
